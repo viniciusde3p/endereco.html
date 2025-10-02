@@ -1,3 +1,5 @@
+//Atividade "Formulário de Endereço Inteligente"
+
 document.addEventListener("DOMContentLoaded", () => {
   const form = document.getElementById("formEndereco");
   const cep = document.getElementById("cep");
